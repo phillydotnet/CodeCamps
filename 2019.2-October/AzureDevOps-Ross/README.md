@@ -9,3 +9,5 @@
 **Azure DevOps Case Studies and Best Practices** - In the Azure DevOps docs, there is a short collection of articles on practices that the team themselves enabled through DevOps.
 
 [Feature Flags](https://docs.microsoft.com/en-us/azure/devops/migrate/phase-features-with-feature-flags?view=azure-devops) - Azure DevOps team promoted feature flags as a best practice in their own documentation on case studies.
+
+[LaunchDarkly](https://launchdarkly.com/) - Well known product that enables and manages continuous delivery of features behind feature flags (this was not discussed in the presentation but suggested as an example tool).
