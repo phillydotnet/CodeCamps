@@ -70,10 +70,18 @@ Azure Repos is a product name.  It is a product (in the Azure DevOps family) tha
 - [Deploy to AWS](https://azure.microsoft.com/en-us/blog/azure-pipelines-is-the-ci-cd-solution-for-any-language-any-platform-any-cloud/)
 - [Self-Hosted Agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops#install) - If you need to use your own build agent
 
+Question was asked about ServiceNow integration.  Here is a tutorial on integration with Azure Pipelines: [Integrate with ServiceNow change management](https://docs.microsoft.com/en-us/azure/devops/pipelines/release/approvals/servicenow?view=azure-devops)
+
+- [Multi-stage YAML Pipelines](https://devblogs.microsoft.com/devops/whats-new-with-azure-pipelines/)
+
+### How do you manage multiple environments when secrets are different in dev, test, prod, etc.?
+
 ### Labs
 
 Rich demoed this lab:
 [Enabling Continuous Integration with Azure Pipelines](https://azuredevopslabs.com/labs/azuredevops/continuousintegration/)
+
+[Using secrets from Azure Key Vault in a pipeline](https://azuredevopslabs.com/labs/vstsextend/azurekeyvault/)
 
 ## Azure DevOps Labs
 
@@ -83,10 +91,22 @@ https://www.azuredevopslabs.com/
 Don't be afraid to scroll down to the Deep Dives, which go into detail on focused scenarios, including some integration scenarios with other products.
 
 ## Azure DevOps Labs Generator
+
 Wasn't the lab generator cool?  It creates projects that already havae boards, work items, projects, and pipelines co you can explore more easily.
 
 You can create your own templates for the lab generator from a project you have in Azure DevOps.  You can generate projects from your own templates.
 See [Building your own template] (https://docs.microsoft.com/en-us/azure/devops/demo-gen/build-your-own-template?toc=%2Fazure%2Fdevops%2Fdemo-gen%2Ftoc.json&bc=%2Fazure%2Fdevops%2Fdemo-gen%2Fbreadcrumb%2Ftoc.json&view=azure-devops)
 
-## Azure Key Vault (In Azure DevOps)
-Lab: [Using secrets from Azure Key Vault in a pipeline](https://azuredevopslabs.com/labs/vstsextend/azurekeyvault/)
+## ARM Templates (Azure Resource Manager)
+
+Using the protal is fine when exploring or learning, but you can head to scripting your operations if you obtain an ARM Template.
+
+[Quickstart: Create and deploy Azure Resource Manager templates by using the Azure portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal)
+
+[Manage Azure resources by using Azure PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/manage-resources-powershell) - This article has links to other articles on accomplishing the same with the CLI. Create a PowerShell Script to deploy resources from templates.
+
+## Azure DevOps Projects
+
+Great way to get started with samples that are end-to-end including Application Insights and CI/CD into Azure: https://azure.microsoft.com/en-au/features/devops-projects/
+
+Question about API Management
