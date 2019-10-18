@@ -5,3 +5,5 @@
 
 ## Saturday Presentations
 [Cure Your Fear Of Git - Gomez](CuringYourFearOfGit-Gomez/README.md)
+
+([How To Contribute](https://github.com/phillydotnet/CodeCamps#how-to-contribute))

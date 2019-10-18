@@ -35,6 +35,13 @@ Reporting out of Azure DevOps
 Integration with JIRA
 - https://devblogs.microsoft.com/devops/azure-pipelines-integration-with-jira-software/
 
+Simpler alternatives
+Azure Boards seems very powerful and could be used for large enterprise scale projects.  
+
+Could it be simplified? Possibilities (not vetted, just discovered)
+    - [Azure Boards with Trello](https://marketplace.visualstudio.com/items?itemName=ms-vsts.services-trello)
+    - [Azure Boards with Zapier](https://marketplace.visualstudio.com/items?itemName=ms-vsts.services-zapier)
+
 ## Azure Repos
 - Each project (one or more in an organization)
     - Contain zero or one TFVC (similar to a collection in TFS/Azure DevOps Server)
