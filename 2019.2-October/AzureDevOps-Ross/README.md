@@ -1,6 +1,8 @@
 # Azure DevOps Hands On : Rich Ross
 Rich Ross works for Microsoft
 Chris Gomez is a Microsoft MVP (does NOT work for Microsoft)
+- [@SpaceShot](https://twitter.com/SpaceShot) on Twitter
+- [Mixer](https://mixer.com/SpaceShot)
 
 *This document does not reflect opinions or guidance directly from Microsoft, but hopefully will allow attendees to reflect upon the collaborative conversation. -- Chris Gomez*
 
