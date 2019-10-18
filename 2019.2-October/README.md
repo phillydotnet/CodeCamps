@@ -3,5 +3,5 @@
 ## Friday Workshops
 [Azure DevOps Hands On - Ross](AzureDevOps-Ross/README.md)
 
-
 ## Saturday Presentations
+[Cure Your Fear Of Git - Gomez](CuringYourFearOfGit-Gomez/README.md)
