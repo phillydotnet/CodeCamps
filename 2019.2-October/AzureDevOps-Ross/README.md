@@ -1,6 +1,9 @@
 # Azure DevOps Hands On : Rich Ross
 
-Rich Ross works for Microsoft
+Rich Ross works for Microsoft at the MTC in Malvern
+
+- rross@Microsoft.com
+
 Chris Gomez is a Microsoft MVP (does NOT work for Microsoft)
 
 - [@SpaceShot](https://twitter.com/SpaceShot) on Twitter
