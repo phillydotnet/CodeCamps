@@ -7,7 +7,7 @@ Currently this repository is set up in a folder structure **per camp**.  Speaker
 ## 2019.2 - October 18-19, 2019
 Weekend schedule: http://phillydotnet.org/2019-2-schedule.html
 ### Presenation Materials
-[Workshop and Presentation Table of Contents](2019.2-October\README.md)
+[Workshop and Presentation Table of Contents](2019.2-October/README.md)
 
 # How to contribute
 ## Pull requests
