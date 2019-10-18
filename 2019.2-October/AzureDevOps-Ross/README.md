@@ -19,6 +19,8 @@ Chris Gomez is a Microsoft MVP (does NOT work for Microsoft)
 
 [LaunchDarkly](https://launchdarkly.com/) - Well known product that enables and manages continuous delivery of features behind feature flags (this was not discussed in the presentation but suggested as an example tool).
 
+There is an Azure DevOps LaunchDarkly Lab too: [Feature Flag Management with LaunchDarkly and AzureDevOps](https://azuredevopslabs.com/labs/vstsextend/launchdarkly/)
+
 ## Azure Boards
 
 ### Open Questions
@@ -109,4 +111,11 @@ Using the protal is fine when exploring or learning, but you can head to scripti
 
 Great way to get started with samples that are end-to-end including Application Insights and CI/CD into Azure: https://azure.microsoft.com/en-au/features/devops-projects/
 
-Question about API Management
+## API Management
+
+Can API Management configuration setting move from environments via Azure DevOps?
+
+## Azure .NET Core Deployment Worldwide (or on your own)
+
+Status: https://aspnetcoreon.azurewebsites.net/
+Deploying Self Contained in Azure DevOps: https://twitter.com/bradygaster/status/1179463110928654336
