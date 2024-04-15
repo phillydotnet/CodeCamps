@@ -11,6 +11,7 @@ Maximizing C#: New Features and Performance Tuning - Scott Kay
 Introduction to Kubernetes for Developers - Jason van Brackel
 
 Hack Your Site Before Someone Else Does - John Iwasz
+  All source and workshop guides are available in the [rce-serialization-dotnet](https://github.com/johniwasz/rce-serialization-dotnet) repo.
 
 Astro for Rank Beginners - Nick Hodges
 
