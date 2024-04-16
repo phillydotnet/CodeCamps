@@ -3,6 +3,18 @@ Repository for speakers to colloborate and gather presentation materials.
 
 Currently this repository is set up in a folder structure **per camp**.  Speakers may contribute by simply sending a pull request.
 
+# 2024
+## 2014.1 - April 19, 2024
+
+### Presenation Materials
+[Workshop and Presentation Table of Contents](2024.1-April/README.md)
+
+# 2023
+## 2013.1 - April 1, 2023
+
+### Presenation Materials
+[Workshop and Presentation Table of Contents](2023.1-April/README.md)
+
 # 2019
 ## 2019.2 - October 18-19, 2019
 Weekend schedule: http://phillydotnet.org/2019-2-schedule.html
