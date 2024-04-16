@@ -4,13 +4,13 @@ Repository for speakers to colloborate and gather presentation materials.
 Currently this repository is set up in a folder structure **per camp**.  Speakers may contribute by simply sending a pull request.
 
 # 2024
-## 2014.1 - April 19, 2024
+## 2024.1 - April 19, 2024
 
 ### Presenation Materials
 [Workshop and Presentation Table of Contents](2024.1-April/README.md)
 
 # 2023
-## 2013.1 - April 1, 2023
+## 2023.1 - April 1, 2023
 
 ### Presenation Materials
 [Workshop and Presentation Table of Contents](2023.1-April/README.md)
