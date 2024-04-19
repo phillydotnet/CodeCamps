@@ -25,4 +25,4 @@ To participate in the hands-on exercise, install the following:
 
 ### Slides
 
-[NET Aspire Hands-on](2024.1-April/Wolff/NET Aspire Hands-on.pptx)
+[NET Aspire Hands-on](https://github.com/phillydotnet/CodeCamps/blob/main/2024.1-April/Wolff/2024.1-April/Wolff/NET Aspire Hands-on.pptx)
