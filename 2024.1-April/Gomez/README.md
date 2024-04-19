@@ -2,8 +2,6 @@
 
 # Blazor in .NET 8
 
-## Short Link to This Content: 
-
 ### Presented by: Chris Gomez
 
 #### Overview
@@ -23,4 +21,4 @@ The focus areas are:
 ## About the Speaker
 Chris is a software developer who loves to share what he's learned with everyone. A Microsoft MVP, Chris regularly discusses topics such as ASP.NET, Game development, Cloud development and how to grow as a developer at user groups, conferences, and on TheDevTalkShow (https://youtube.com/thedevtalkshow).
 
-### Notes
+

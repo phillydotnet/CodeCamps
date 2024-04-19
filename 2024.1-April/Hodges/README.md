@@ -2,8 +2,6 @@
 
 # Astro for Rank Beginners
 
-## Short Link to This Content: 
-
 ### Presented by: Nick Hodges
 
 #### Overview

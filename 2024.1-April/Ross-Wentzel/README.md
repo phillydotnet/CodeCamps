@@ -2,8 +2,6 @@
 
 # Build Intelligent Copilots with Azure OpenAI
 
-## Short Link to This Content: 
-
 ### Presented by: Rich Ross and Dave Wentzel
 
 #### Overview

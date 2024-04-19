@@ -2,8 +2,6 @@
 
 # How to Build a Copilot with Azure AI Search and Azure OpenAI
 
-## Short Link to This Content: 
-
 ### Presented by: Danilo Diaz
 
 #### Overview

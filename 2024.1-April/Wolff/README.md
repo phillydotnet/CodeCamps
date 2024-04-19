@@ -2,8 +2,6 @@
 
 # .NET Aspire Hands-On
 
-## Short Link to This Content: 
-
 ### Presented by: Bill Wolff
 
 #### Overview

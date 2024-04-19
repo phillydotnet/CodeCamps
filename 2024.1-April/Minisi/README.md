@@ -2,8 +2,6 @@
 
 # Create a Microservices Platform with AKS
 
-## Short Link to This Content: 
-
 ### Presented by: Brian Minisi and Poornima Neelakandan
 
 #### Overview

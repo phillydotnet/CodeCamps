@@ -2,8 +2,6 @@
 
 # Hack Your Site Before Someone Else Does
 
-## Short Link to This Content: 
-
 ### Presented by: John Iwasz
 
 All source and workshop guides are available in the [rce-serialization-dotnet](https://github.com/johniwasz/rce-serialization-dotnet) repo.

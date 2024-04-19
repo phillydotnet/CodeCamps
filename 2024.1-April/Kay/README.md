@@ -2,8 +2,6 @@
 
 # Maximizing C#: New Features and Performance Tuning
 
-## Short Link to This Content: 
-
 ### Presented by: Scott Kay
 
 #### Overview

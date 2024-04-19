@@ -2,8 +2,6 @@
 
 # Introduction to Kubernetes for Developers
 
-## Short Link to This Content: 
-
 ### Presented by: Jason van Brackel
 
 #### Overview

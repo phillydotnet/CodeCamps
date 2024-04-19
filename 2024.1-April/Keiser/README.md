@@ -2,8 +2,6 @@
 
 # Your First MAUI App
 
-## Short Link to This Content: 
-
 ### Presented by: Rob Keiser
 
 #### Overview

@@ -2,8 +2,6 @@
 
 # Build Your First Application with Blazor and .NET 8
 
-## Short Link to This Content: 
-
 ### Presented by: Jeffrey T. Fritz
 
 #### Overview
