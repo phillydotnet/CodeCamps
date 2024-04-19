@@ -1,4 +1,4 @@
-# Philly.NET Code Camp - April 19, 2024
+# philly.NET Code Camp - April 19, 2024
 
 # .NET Aspire Hands-On
 
