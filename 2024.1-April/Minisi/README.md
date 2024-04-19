@@ -22,10 +22,3 @@ Poornima Neelakandan is currently serving as the Director of App Modernization a
 Her journey began with the onset of the Azure wave in 2012, during which she has been at the forefront of leading digital transformation initiatives. Her recent endeavors include the development of microservices and Kubernetes containers, igniting her enthusiasm for leveraging these technologies to drive client success.
 
 ### Notes
-
-# Philly.NET - April 19, 2024
-
-## Short Link to This Content:
-
-## or Scan Here
-<img src="images/pcc240419.png" alt="QR Code for direct link to this page" width="256"/>

@@ -22,10 +22,3 @@ Jeff is the executive producer of the .NET Conf series of online events. He is a
 You can catch Jeff writing .NET Code with GitHub, Visual Studio, and Azure on his video stream called 'Fritz and Friends' at https://twitch.tv/csharpfritz
 
 ### Notes
-
-# Philly.NET - April 19, 2024
-
-## Short Link to This Content:
-
-## or Scan Here
-<img src="images/pcc240419.png" alt="QR Code for direct link to this page" width="256"/>

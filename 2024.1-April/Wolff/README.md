@@ -18,10 +18,3 @@ He ran the consulting firm Wolff Data Systems for 15 years and directed armies o
 Bill was a contributing author on several books. His certifications include trainer, systems engineer, developer, and Microsoft MVP.
 
 ### Notes
-
-# Philly.NET - April 19, 2024
-
-## Short Link to This Content:
-
-## or Scan Here
-<img src="images/pcc240419.png" alt="QR Code for direct link to this page" width="256"/>

@@ -36,10 +36,3 @@ In his career, he has been a busboy, a cook, a caddie, a telemarketer (for which
 In addition, he is a former Delphi Product Manager and Delphi R&D Team Manager. He's a passionate Minnesota sports fan -- especially the Timberwolves -- as he grew up and went to college in the Land of 10,000 Lakes.
 
 ### Notes
-
-# Philly.NET - April 19, 2024
-
-## Short Link to This Content:
-
-## or Scan Here
-<img src="images/pcc240419.png" alt="QR Code for direct link to this page" width="256"/>

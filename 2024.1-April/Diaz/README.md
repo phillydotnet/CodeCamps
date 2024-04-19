@@ -15,13 +15,4 @@ By the end of this session, you will have the skills and knowledge to build your
 
 ## About the Speaker
 
-
-
 ### Notes
-
-# Philly.NET - April 19, 2024
-
-## Short Link to This Content:
-
-## or Scan Here
-<img src="images/pcc240419.png" alt="QR Code for direct link to this page" width="256"/>

@@ -28,10 +28,3 @@ In addition to his work at Microsoft, John co-founded Whetstone Technologies, a 
 Currently, John works as a partner technologist at AVEVA, where he focuses on industrial IoT and cybersecurity. He is dedicated to helping clients succeed through the use of cutting-edge technologies and a strong focus on quality.
 
 ### Notes
-
-# Philly.NET - April 19, 2024
-
-## Short Link to This Content:
-
-## or Scan Here
-<img src="images/pcc240419.png" alt="QR Code for direct link to this page" width="256"/>
