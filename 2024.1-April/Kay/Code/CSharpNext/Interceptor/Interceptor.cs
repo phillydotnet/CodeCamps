@@ -5,15 +5,15 @@ namespace Test
     // generated code
     static class D
     {
-        [InterceptsLocation(@"C:\Users\Scott\Desktop\CSharp12\Interceptor\Program.cs", line: 4, character: 3)]
+        [InterceptsLocation(@"C:\Users\Scott\Desktop\CSharpNext\Interceptor\Program.cs", line: 4, character: 3)]
         public static void InterceptorMethod(this C c, int param)
         {
             Console.WriteLine($"interceptor {param}");
             c.InterceptableMethod(param);
         }
 
-        [InterceptsLocation(@"C:\Users\Scott\Desktop\CSharp12\Interceptor\Program.cs", line: 5, character: 3)]
-        [InterceptsLocation(@"C:\Users\Scott\Desktop\CSharp12\Interceptor\Program.cs", line: 6, character: 3)]
+        [InterceptsLocation(@"C:\Users\Scott\Desktop\CSharpNext\Interceptor\Program.cs", line: 5, character: 3)]
+        [InterceptsLocation(@"C:\Users\Scott\Desktop\CSharpNext\Interceptor\Program.cs", line: 6, character: 3)]
         public static void OtherInterceptorMethod(this C c, int param)
         {
             Console.WriteLine($"other interceptor {param}");
