@@ -19,6 +19,8 @@ The session will be using Visual Studio however it is possible to build the app 
 
 For those people with a Mac, Visual Studio for Mac can still be downloaded from the above link however it will be retired in August.
 
+[Link to talk content](https://github.com/row5is/PDNCodeCamp2024)
+
 ## About the Speaker
 Rob has over 30 years of experience developing software in one form or another. Rob is currently working as a Sr. Developer for Cox Automotive. Rob has been an MVP since 2009 and also helps to run the Philly.NET user group.
 
