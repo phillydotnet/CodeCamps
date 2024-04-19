@@ -20,6 +20,7 @@ Bill was a contributing author on several books. His certifications include trai
 To participate int he hands-on exercise, install the following:
 
 [Visual Studio 2022 Preview](https://visualstudio.microsoft.com/vs/preview/)
+
 [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
  
