@@ -2,8 +2,6 @@
 
 # Blazor in .NET 8
 
-## Short Link to This Content: 
-
 ### Presented by: Chris Gomez
 
 #### Overview
@@ -21,13 +19,6 @@ The focus areas are:
 - Authentication / Authorization, what's built in and what's not
 
 ## About the Speaker
-Chris is a software developer who loves to share what he's learned with everyone. A Microsoft MVP, Chris regularly discusses topics such as ASP.NET, Game development, Cloud development and how to grow as a developer at user groups, conferences, and the Static Void Podcast (www.staticvoidpodcast.com)
+Chris is a software developer who loves to share what he's learned with everyone. A Microsoft MVP, Chris regularly discusses topics such as ASP.NET, Game development, Cloud development and how to grow as a developer at user groups, conferences, and on TheDevTalkShow (https://youtube.com/thedevtalkshow).
 
-### Notes
 
-# Philly.NET - April 19, 2024
-
-## Short Link to This Content:
-
-## or Scan Here
-<img src="images/pcc240419.png" alt="QR Code for direct link to this page" width="256"/>

@@ -2,8 +2,6 @@
 
 # Build Intelligent Copilots with Azure OpenAI
 
-## Short Link to This Content: 
-
 ### Presented by: Rich Ross and Dave Wentzel
 
 #### Overview
@@ -24,10 +22,3 @@ Rich also helps to organize and run Philly .net Code Camp, a bi-annual event for
 Dave Wentzel works at the Microsoft Technology Center doing interesting things with data and analytics.
 
 ### Notes
-
-# Philly.NET - April 19, 2024
-
-## Short Link to This Content:
-
-## or Scan Here
-<img src="images/pcc240419.png" alt="QR Code for direct link to this page" width="256"/>

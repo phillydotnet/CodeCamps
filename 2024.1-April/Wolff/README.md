@@ -1,8 +1,6 @@
-# Philly.NET Code Camp - April 19, 2024
+# philly.NET Code Camp - April 19, 2024
 
 # .NET Aspire Hands-On
-
-## Short Link to This Content: 
 
 ### Presented by: Bill Wolff
 
@@ -19,9 +17,13 @@ Bill was a contributing author on several books. His certifications include trai
 
 ### Notes
 
-# Philly.NET - April 19, 2024
+To participate in the hands-on exercise, install the following:
 
-## Short Link to This Content:
+[Visual Studio 2022 Preview](https://visualstudio.microsoft.com/vs/preview/)
 
-## or Scan Here
-<img src="images/pcc240419.png" alt="QR Code for direct link to this page" width="256"/>
+[Docker Desktop](https://www.docker.com/products/docker-desktop/)
+
+### Slides
+
+[NET Aspire Hands-on](https://github.com/phillydotnet/CodeCamps/blob/main/2024.1-April/Wolff/NET%20Aspire%20Hands-on.pptx)
+

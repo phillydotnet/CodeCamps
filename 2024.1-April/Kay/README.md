@@ -2,8 +2,6 @@
 
 # Maximizing C#: New Features and Performance Tuning
 
-## Short Link to This Content: 
-
 ### Presented by: Scott Kay
 
 #### Overview
@@ -18,10 +16,3 @@ Whether you're a seasoned developer or just starting with C#, this talk will equ
 Scott Kay is a Principal Engineering Manager at Microsoft, leading development of high-scale programmatic advertising with the Prebid Server open-source project. He's been working with C# and .Net since their inception and actively supports community events.
 
 ### Notes
-
-# Philly.NET - April 19, 2024
-
-## Short Link to This Content:
-
-## or Scan Here
-<img src="images/pcc240419.png" alt="QR Code for direct link to this page" width="256"/>
