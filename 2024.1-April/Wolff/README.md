@@ -16,3 +16,10 @@ He ran the consulting firm Wolff Data Systems for 15 years and directed armies o
 Bill was a contributing author on several books. His certifications include trainer, systems engineer, developer, and Microsoft MVP.
 
 ### Notes
+
+To participate int he hands-on exercise, install the following:
+
+[Visual Studio 2022 Preview](https://visualstudio.microsoft.com/vs/preview/)
+[Docker Desktop](https://www.docker.com/products/docker-desktop/)
+
+ 
