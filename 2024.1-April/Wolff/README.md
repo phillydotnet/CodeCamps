@@ -23,4 +23,6 @@ To participate in the hands-on exercise, install the following:
 
 [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
- 
+### Slides
+
+[NET Aspire Hands-on](2024.1-April/Wolff/NET Aspire Hands-on.pptx)
