@@ -11,6 +11,22 @@ Astro is a modern static site generator that allows you to build faster websites
 
 This session is for anyone who has precisely zero knowledge about Astro and wants to walk away with a basic knowledge of what it is and how it works.  We'll start from scratch and build an incredibly simple application.  You'll walk away knowing how a simple Astro application is structured and how it works.
 
+By the end of this workshop, you will have built your own fully functional blog and personal website using Astro.
+
+We'll cover
+
+* Intro to Astro, what it is, and why you'd choose it
+* Setting up your environment for Astro
+* Anatomy of an Astro application
+* Basic routing
+* Managing Content in Content Collections
+* Markdown and MDX
+* Rendering strategies (SSR vs. SSG)
+* Integrating React
+* Deploying to Vercel
+
+The workshop will assume you have basic knowledge of web development, including HTML, basic CSS, GitHub, and TypeScript.
+
 ## About the Speaker
 
 Nick Hodges is a presenter and writer on technology and coding. A long-time Delphi developer, he has recently turned his attention to TypeScript and Angular. Nick has a BA in Classical Languages from Carleton College and an MS in Information Technology Management from the Naval Postgraduate School. 

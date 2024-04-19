@@ -6,6 +6,8 @@
 
 ### Presented by: John Iwasz
 
+All source and workshop guides are available in the [rce-serialization-dotnet](https://github.com/johniwasz/rce-serialization-dotnet) repo.
+
 #### Overview
 You've heard of SQL injection, but what about second order SQL injection?
 

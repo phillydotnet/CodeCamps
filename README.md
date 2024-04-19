@@ -6,19 +6,19 @@ Currently this repository is set up in a folder structure **per camp**.  Speaker
 # 2024
 ## 2024.1 - April 19, 2024
 
-### Presenation Materials
+### Presentation Materials
 [Workshop and Presentation Table of Contents](2024.1-April/README.md)
 
 # 2023
 ## 2023.1 - April 1, 2023
 
-### Presenation Materials
+### Presentation Materials
 [Workshop and Presentation Table of Contents](2023.1-April/README.md)
 
 # 2019
 ## 2019.2 - October 18-19, 2019
 Weekend schedule: http://phillydotnet.org/2019-2-schedule.html
-### Presenation Materials
+### Presentation Materials
 [Workshop and Presentation Table of Contents](2019.2-October/README.md)
 
 # How to contribute
