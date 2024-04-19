@@ -7,7 +7,7 @@
 ### Presented by: Jason van Brackel
 
 #### Overview
-Kubernetes is a powerful platform for the life-cycle and scale of your applications.  Learn about Kubernetes Fundamentals what you need to do to start deploying your applications to Kubernetes
+Kubernetes is a powerful platform for the life-cycle and scale of your applications.  Learn about Kubernetes Fundamentals what you need to do to start deploying your applications to Kubernetes.
 
 ## About the Speaker
 
