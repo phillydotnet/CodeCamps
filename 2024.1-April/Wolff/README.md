@@ -17,7 +17,7 @@ Bill was a contributing author on several books. His certifications include trai
 
 ### Notes
 
-To participate int he hands-on exercise, install the following:
+To participate in the hands-on exercise, install the following:
 
 [Visual Studio 2022 Preview](https://visualstudio.microsoft.com/vs/preview/)
 
