@@ -14,6 +14,8 @@ Jason van Brackel is a Lead Associate at Booz Allen Hamilton. The founder and fo
 
 #### Slides
 
+[Introduction to Kubernetes Philly.NET 2024](./Introduction%20to%20Kubernetes%20Philly.NET%202024.pptx)
+
 #### Noted Tools
 
 [Rancher](https://rancher.com)
